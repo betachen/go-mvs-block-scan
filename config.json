@@ -1,0 +1,12 @@
+{
+	"mvsd": {
+		"host": "127.0.0.1",
+		"port": "8820",
+		"rpcuser": "test1",
+		"rpcpassword": "123456",
+		"ssl": "false"
+	},
+	"db": {
+		"uri": "root:123456@/db_sausage?charset=utf8"
+	}
+}
